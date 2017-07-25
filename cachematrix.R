@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ##Makes the cahce matrix and is very similar to the makeVector function in the example provided
 
 makeCacheMatrix <- function(x = matrix()) {
